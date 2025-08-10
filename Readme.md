@@ -1,8 +1,11 @@
-# API de Gerenciamento de Proprietários
+# API de Gerenciamento de Proprietários v2
 
 Este projeto é uma API RESTful desenvolvida em Java com Spring Boot para realizar as operações básicas de um CRUD (Create, Read, Update, Delete) para a entidade `Proprietario`.
 
 O projeto utiliza o Flyway para gerenciar as migrações do banco de dados, garantindo que o schema evolua de forma controlada e versionada.
+
+#### Dependências
+<img src="./preview/java-flyway.png" alt="dependências">
 
 ## 🚀 Tecnologias Utilizadas feito Java 21
 * **Java 17+**
